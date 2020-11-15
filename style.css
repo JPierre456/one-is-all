@@ -1,0 +1,14 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: Courier;
+  margin: 5em;
+ background-color: #c9c49b;
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto;
+  }
+h2 {
+  font-style:;
+  color: #942f2c;
+}
